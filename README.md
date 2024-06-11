@@ -11,7 +11,7 @@ Este proyecto es un ejemplo de cómo crear una API REST simple con Django que se
 1. Clona el repositorio:
 
     ```sh
-    git clone https://github.com/tu_usuario/basic-rest-django.git
+    git clone https://github.com/mframosg/basic-rest-django.git
     cd basic-rest-django
     ```
 
